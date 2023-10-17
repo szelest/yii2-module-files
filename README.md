@@ -7,7 +7,7 @@
 [![Total Downloads](https://poser.pugx.org/floor12/yii2-module-files/downloads)](https://packagist.org/packages/floor12/yii2-module-files)
 [![License](https://poser.pugx.org/floor12/yii2-module-files/license)](https://packagist.org/packages/floor12/yii2-module-files)
 
-*Этот файл доступен на [русском языке](README_RU.md).*
+*(README_RU.md).*
 
 ## About the module
 
